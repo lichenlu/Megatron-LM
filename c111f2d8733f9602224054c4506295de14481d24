@@ -1,0 +1,23 @@
+tests/unit_tests/tensor_parallel/test_tensor_parallel_utils.py
+  5a5ce99e39084ffb 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "2.3.5",
+  "base_commit_sha": "c111f2d8733f9602224054c4506295de14481d24",
+  "prompts": {
+    "5a5ce99e39084ffb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8bb40993-b17c-47af-bdf2-e7cf5ab6ad7e",
+        "model": "gpt-5.5"
+      },
+      "human_author": "lichenlu",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 0,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
